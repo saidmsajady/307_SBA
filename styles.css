@@ -70,3 +70,40 @@ body {
 .card-img-top {
     margin-top: 5%;
 }
+
+.centered {
+  text-align: center;
+  margin-right: 5%;
+  margin-left: 3%;
+}
+
+.welcome {
+  color: red;
+}
+
+.threat {
+  margin-top: 7.5%;
+}
+
+.gif {
+  transition-property: width, height;
+  transition-duration: 5s;
+}
+
+.gif:hover {
+  width: 90%;
+  height: 90%;
+}
+
+.d-block w-100 {
+  width: 25%;
+  height: 30%;
+}
+
+footer {
+  text-align: center;
+}
+
+.table {
+  margin-top: 3%;
+}
